@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611563191 source:c:\users\dell g5\desktop\c++ projects\vowel game\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+
